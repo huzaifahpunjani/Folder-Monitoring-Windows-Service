@@ -1,0 +1,7 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\bin\Release\CheckFolderAndMailService.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\bin\Release\CheckFolderAndMailService.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\bin\Release\CheckFolderAndMailService.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\obj\Release\CheckFolderAndMailService.ProjectInstaller.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\obj\Release\CheckFolderAndMailService.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\obj\Release\CheckFolderAndMailService.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CheckFolderAndMailService\CheckFolderAndMailService\obj\Release\CheckFolderAndMailService.pdb
