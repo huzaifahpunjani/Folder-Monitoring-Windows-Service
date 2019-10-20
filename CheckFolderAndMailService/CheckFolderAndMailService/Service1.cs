@@ -36,7 +36,7 @@ namespace CheckFolderAndMailService
         private bool isChanged = false;
         System.Timers.Timer timeDelay;
 
-        public FolderService()
+        public void FolderService()
         {
             InitializeComponent();
             timeDelay = new System.Timers.Timer();
